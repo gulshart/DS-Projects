@@ -1,6 +1,6 @@
-Customer Churn Prediction for Beta Bank
+# Customer Churn Prediction for Beta Bank #
 
-Project Overview
+## Project Overview ##
 This project aims to predict whether a client will leave Beta Bank in the near future using historical data on customer behavior and contract termination.
 The goal is to build a machine learning model with a high F1-score, targeting an F1-measure of at least 0.59.
 Additionally, the project involves measuring the AUC-ROC and comparing its value with the F1 measure.

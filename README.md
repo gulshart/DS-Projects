@@ -11,7 +11,7 @@ Projects cover different problems solved using exploratory data analisys, data v
 
 [https://github.com/gulshart/DS-Projects/tree/main/Hypothesis%20testing%20](Hipothesis testing) Choosing a user plan for a scooter rental company.  
 
-[https://github.com/gulshart/DS-Projects/tree/main/Mobile%20plan%20choice] (Mobile plan recommendation) A machine learning model to recommend the appropriate data plan.  
+[https://github.com/gulshart/DS-Projects/tree/main/Mobile%20plan%20choice](Mobile plan recommendation) A machine learning model to recommend the appropriate data plan.  
   
 [https://github.com/gulshart/DS-Projects/tree/main/Oil%20well%20lication%20selection](Selection of a location for oil well). Application of a machine lerning model to make a decision on a location of oil wells.  
 

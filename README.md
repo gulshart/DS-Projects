@@ -17,7 +17,7 @@ Projects cover different problems solved using exploratory data analisys, data v
 
 [Rush hour prediction](https://github.com/gulshart/DS-Projects/tree/main/Rush%20hour%20prediction)   | Predicting the number of taxi orders for the next hour using time series  
 
-[Steel melting temperature prediction][](https://github.com/gulshart/DS-Projects/tree/main/Steel%20melting%20temperature%20prediction) | A model that predicts the temperature of steel melting alloys.
+[Steel melting temperature prediction](https://github.com/gulshart/DS-Projects/tree/main/Steel%20melting%20temperature%20prediction) | A model that predicts the temperature of steel melting alloys.
 
 [Detecting Toxic Comments for an Online Shop](https://github.com/gulshart/DS-Projects/tree/main/Toxic%20comments%20detection)  | Implementation of a LLM to detect toxic comments
 

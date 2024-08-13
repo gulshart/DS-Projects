@@ -5,3 +5,5 @@ It is necessary to build a model that will determine the approximate age of a pe
 <br>
 <br> The dataset is taken from https://chalearnlap.cvc.uab.es/dataset/26/description/.
  <br> Used neural network: ResNet50, activation function: ReLU. <br> Loss function: MSE. 
+<br> 
+![image](https://github.com/user-attachments/assets/ac573d31-e645-45d8-9f0c-b4d39b49e35d)

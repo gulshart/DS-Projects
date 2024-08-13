@@ -12,7 +12,7 @@ Given the oil sample data from three regions, the task is to build a machine lea
 * Calculating the break-even point for oil production.
 * Estimating profits from the 200 most profitable wells in each region.
 * Using the Bootstrap technique to assess average profit, 95% confidence intervals, and the risk of loss.
-* Data Description
+## Data Description
 The dataset contains information on:
 
 Oil Quality: Various characteristics indicating the quality of oil.

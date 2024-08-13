@@ -21,11 +21,9 @@ The dataset includes features related to customer behavior, such as:
 * Number of SMS messages
 * Whether the customer switched to the ultra tariff (target variable)
 * Installation
-### System Requirements ###
-Operating System: Windows, macOS, or Linux
-Python Version: 3.8 or higher
-Required Libraries
-### The project requires the following Python libraries: ###
+
+### Required Libraries ###
+ The project requires the following Python libraries: ###
 
 pandas
 numpy
